@@ -10,3 +10,5 @@ A beginner-friendly CLI tool to interact with text files using Python.
 - Replace a word
 
 ## How to Run:
+Run in terminal using:
+python file_assistant.py
