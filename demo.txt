@@ -1,0 +1,3 @@
+Hello Rahi!
+You are building your first Python project.
+This tool will help you manage text files easily.
